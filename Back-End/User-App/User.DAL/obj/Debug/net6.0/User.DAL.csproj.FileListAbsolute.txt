@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\bin\Debug\net6.0\User.DAL.deps.json
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\bin\Debug\net6.0\User.DAL.runtimeconfig.json
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\bin\Debug\net6.0\User.DAL.dll
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\bin\Debug\net6.0\User.DAL.pdb
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\User.DAL.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\User.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\User.DAL.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\User.DAL.AssemblyInfo.cs
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\User.DAL.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\User.DAL.dll
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\refint\User.DAL.dll
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\User.DAL.pdb
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\User.DAL.genruntimeconfig.cache
+C:\Users\USER\Desktop\AMR-AMER\RedNet IT\TASK\Back-End\User-App\User.DAL\obj\Debug\net6.0\ref\User.DAL.dll
